@@ -2,6 +2,8 @@
 
 A Turtle Formatter extension for VSCode. Using [graphy.js](https://graphy.link).
 
+> Initial ideas came from <https://github.com/Dickurt/vscode-php-formatter>.
+
 ## Features
 
 Just do autoformat on your active file.

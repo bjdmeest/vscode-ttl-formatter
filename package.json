@@ -2,7 +2,9 @@
 	"name": "ttlformatter",
 	"displayName": "Turtle Formatter",
 	"description": "",
+	"publisher": "bjdmeest",
 	"version": "0.1.0",
+	"repository": "https://github.com/bjdmeest/vscode-ttl-formatter/",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
